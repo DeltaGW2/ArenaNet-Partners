@@ -90,12 +90,6 @@
         "twitch": "https://twitch.tv/dzfm_gaming"
     },
     {
-        "name": "Das Krokodil",
-        "youtube": "https://youtube.com/channel/UCVN8d5f2U18DWqXArIagtWw",
-        "twitch": "https://twitch.tv/krokotasche",
-        "website": "https://welcome.guildwars2.com/en/UCVN8d5f2U18DWqXArIagtWw"
-    },
-    {
         "name": "Dawnwhisper",
         "twitch": "https://twitch.tv/dawnwhisper"
     },
@@ -104,12 +98,12 @@
         "twitch": "https://twitch.tv/deimosthea"
     },
     {
-        "name": "Docgotgame",
-        "twitch": "https://twitch.tv/docgotgame"
-    },
-    {
         "name": "Durden",
         "twitch": "https://twitch.tv/durdengaming"
+    },
+    {
+        "name": "Dvalin",
+        "youtube": "https://youtube.com/channel/DvalinDK"
     },
     {
         "name": "Elfhorys",
@@ -185,7 +179,8 @@
     },
     {
         "name": "Historien Atis",
-        "youtube": "https://youtube.com/channel/UC5r2e4w4t33hZegluRdPvEw"
+        "youtube": "https://youtube.com/channel/UC5r2e4w4t33hZegluRdPvEw",
+        "twitch": "https://twitch.tv/historienatis"
     },
     {
         "name": "Honeyball",
@@ -310,11 +305,6 @@
     {
         "name": "Noscoc",
         "twitch": "https://twitch.tv/noscoc"
-    },
-    {
-        "name": "Nozadah",
-        "youtube": "https://youtube.com/channel/UCq3-VUNZUtgzeBcLoguZiJQ",
-        "twitch": "https://twitch.tv/nozadah"
     },
     {
         "name": "Okrad 064",
