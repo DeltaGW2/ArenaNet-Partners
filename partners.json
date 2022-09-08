@@ -212,16 +212,13 @@
         "twitch": "https://twitch.tv/kroof_"
     },
     {
-        "name": "Kang Gaming",
-        "twitch": "https://twitch.tv/kanggaming"
-    },
-    {
         "name": "Kazhamania",
         "youtube": "https://youtube.com/channel/UC4co9wT8hjTcPCClFDdN7bg"
     },
     {
         "name": "Keyba",
-        "twitch": "https://twitch.tv/keyba_"
+        "youtube": "https://youtube.com/channel/Keyba1001",
+        "twitch": "https://twitch.tv/keyba_plays"
     },
     {
         "name": "Kirling",
@@ -376,17 +373,9 @@
         "twitch": "https://twitch.tv/rookuri"
     },
     {
-        "name": "RyuTheRed",
-        "twitch": "https://twitch.tv/ryuthered"
-    },
-    {
         "name": "Samajestay",
         "youtube": "https://youtube.com/channel/UCFj6RlDTF731AfH9rS_CHIA",
         "twitch": "https://twitch.tv/samajestay"
-    },
-    {
-        "name": "Sanctuary of Wolves",
-        "twitch": "https://twitch.tv/voiceofvarg"
     },
     {
         "name": "SebGa",
@@ -448,10 +437,6 @@
         "twitch": "https://twitch.tv/TiffyMissWiffy"
     },
     {
-        "name": "Tigerpfoetchen",
-        "twitch": "https://twitch.tv/tigerpfoetchen"
-    },
-    {
         "name": "TinyBlueGames",
         "youtube": "https://youtube.com/channel/UCcdGOu7g4oVMrGwydib09fQ"
     },
@@ -495,10 +480,6 @@
         "name": "Yellow et Ayki",
         "youtube": "https://youtube.com/channel/UCHMLdl9kMKq7gLhIlbf6E0A",
         "twitch": "https://twitch.tv/yellow_et_ayki"
-    },
-    {
-        "name": "YourFriendMarvin",
-        "twitch": "https://twitch.tv/yourfriendmarvin"
     },
     {
         "name": "YukieKoori",
