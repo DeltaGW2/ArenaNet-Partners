@@ -52,6 +52,15 @@
         }
     },
     {
+        "id": 29,
+        "name": "Retrolove TV",
+        "lang": "fr",
+        "links": {
+            "youtube": "https://youtube.com/channel/UCkMRpFVhgml_Z1JkZ0M9EwA",
+            "twitch": "https://twitch.tv/retrolovetv"
+        }
+    },
+    {
         "id": 76,
         "name": "Aurora Peachy",
         "lang": "en",
