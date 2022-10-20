@@ -112,15 +112,6 @@
         }
     },
     {
-        "id": 103,
-        "name": "MMOInks ",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCbVGUvx_9SuAYrgJOzBYT7Q",
-            "twitch": "https://twitch.tv/mmoinks"
-        }
-    },
-    {
         "id": 104,
         "name": "Waffle",
         "lang": "fr",
@@ -318,14 +309,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCFj6RlDTF731AfH9rS_CHIA",
             "twitch": "https://twitch.tv/samajestay"
-        }
-    },
-    {
-        "id": 333,
-        "name": "Poxe7HD",
-        "lang": "es",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCDxzkKca9wtcUvXRx3qYiAQ"
         }
     },
     {
@@ -895,14 +878,6 @@
         }
     },
     {
-        "id": 904,
-        "name": "Xeberneth",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/xeberneth"
-        }
-    },
-    {
         "id": 905,
         "name": "Shayrianna",
         "lang": "en",
@@ -1175,15 +1150,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCgcDJ60QOCj3GjHui8Ws0cg",
             "twitch": "https://twitch.tv/vallun"
-        }
-    },
-    {
-        "id": 1094,
-        "name": "Luxthos",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/Luxthos",
-            "twitch": "https://twitch.tv/luxthos"
         }
     },
     {
