@@ -177,14 +177,6 @@
         }
     },
     {
-        "id": 164,
-        "name": "Bast_50",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/Bast_50"
-        }
-    },
-    {
         "id": 170,
         "name": "Wuschelcore",
         "lang": "de",
@@ -275,14 +267,6 @@
         "lang": "en",
         "links": {
             "website": "http://www.chroniclesoftyria.com/"
-        }
-    },
-    {
-        "id": 270,
-        "name": "Okrad 064",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC20rPnv9G82NXZ2bhRDzPzg"
         }
     },
     {
@@ -677,14 +661,6 @@
         "lang": "en",
         "links": {
             "twitch": "https://twitch.tv/nekomura"
-        }
-    },
-    {
-        "id": 714,
-        "name": "Naferla",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCj2Yb3ZFu6ZKGPJFJHSrTbA"
         }
     },
     {
