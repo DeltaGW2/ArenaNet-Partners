@@ -871,6 +871,14 @@
         }
     },
     {
+        "id": 919,
+        "name": "Gods of PvP",
+        "lang": "en",
+        "links": {
+            "twitch": "https://twitch.tv/angeels"
+        }
+    },
+    {
         "id": 921,
         "name": "Kyosika",
         "lang": "en",
@@ -917,6 +925,15 @@
         "lang": "en",
         "links": {
             "website": "https://twitter.com/snail232323"
+        }
+    },
+    {
+        "id": 938,
+        "name": "The Cryophoenix",
+        "lang": "en",
+        "links": {
+            "youtube": "https://youtube.com/channel/UCfWxpxdyWiyC2pm-XFxn7Jw",
+            "twitch": "https://twitch.tv/thecryophoenix"
         }
     },
     {
@@ -1198,7 +1215,7 @@
     },
     {
         "id": 1117,
-        "name": "[ART] Skar Production",
+        "name": "[ART] Skar Productions",
         "lang": "en",
         "links": {
             "youtube": "https://youtube.com/channel/UCpx_V-pf-2kE_AQiYOxpoEw",
