@@ -795,14 +795,6 @@
         }
     },
     {
-        "id": 872,
-        "name": "[ART] Thunderpot",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/thunderpo_t"
-        }
-    },
-    {
         "id": 874,
         "name": "Keyba",
         "lang": "en",
@@ -884,15 +876,6 @@
         "lang": "en",
         "links": {
             "youtube": "https://youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg"
-        }
-    },
-    {
-        "id": 924,
-        "name": "Rheyo",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCDnAiCE9F6pdi5pcKoGdcPQ",
-            "twitch": "https://twitch.tv/rheeyo"
         }
     },
     {
@@ -1049,15 +1032,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UC5r2e4w4t33hZegluRdPvEw",
             "twitch": "https://twitch.tv/historienatis"
-        }
-    },
-    {
-        "id": 1030,
-        "name": "SimSouls",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCvHB9BWbE8Y5I2bq_dkT9Pg",
-            "twitch": "https://twitch.tv/simsouls"
         }
     },
     {
