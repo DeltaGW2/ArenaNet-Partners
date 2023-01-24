@@ -1203,5 +1203,15 @@
         "links": {
             "website": "https://www.artstation.com/achromant"
         }
+    },
+    {
+        "id": 1122,
+        "name": "Loreline",
+        "lang": "de",
+        "links": {
+            "youtube": "https://youtube.com/channel/loreline_by_aouglas",
+            "twitch": "https://twitch.tv/loreline_de",
+            "website": "https://loreline.de/de/"
+        }
     }
 ]
