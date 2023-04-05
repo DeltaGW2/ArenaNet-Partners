@@ -1205,5 +1205,13 @@
             "twitch": "https://twitch.tv/loreline_de",
             "website": "https://loreline.de/de/"
         }
+    },
+    {
+        "id": 1123,
+        "name": "Zori",
+        "lang": "fr",
+        "links": {
+            "youtube": "https://youtube.com/channel/@Zori_le_Conteur_Nain"
+        }
     }
 ]
