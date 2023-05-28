@@ -1205,5 +1205,14 @@
         "links": {
             "youtube": "https://youtube.com/channel/@Zori_le_Conteur_Nain"
         }
+    },
+    {
+        "id": 1126,
+        "name": "Hardstuck",
+        "lang": "en",
+        "links": {
+            "youtube": "https://youtube.com/channel/UC6tw9rxXtgJC1o5f7TtL9fA",
+            "website": "https://hardstuck.gg/"
+        }
     }
 ]
