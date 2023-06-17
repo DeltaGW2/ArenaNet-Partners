@@ -43,15 +43,6 @@
         }
     },
     {
-        "id": 17,
-        "name": "Bog Otter",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCSzOtbN2xTsI8aQPM2sMmpQ",
-            "twitch": "https://twitch.tv/bogotter"
-        }
-    },
-    {
         "id": 29,
         "name": "Retrolove TV",
         "lang": "fr",
