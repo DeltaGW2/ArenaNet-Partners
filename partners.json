@@ -124,6 +124,7 @@
         "name": "TheVexios",
         "lang": "fr",
         "links": {
+            "youtube": "https://youtube.com/channel/https://www.youtube.com/FariFariNos",
             "twitch": "https://twitch.tv/VexiosReal"
         }
     },
@@ -1152,15 +1153,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCnFjR4NH0zlB-jjesZ-EqPA",
             "twitch": "https://twitch.tv/snebzor"
-        }
-    },
-    {
-        "id": 1117,
-        "name": "[ART] Skar Productions",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCpx_V-pf-2kE_AQiYOxpoEw",
-            "twitch": "https://twitch.tv/skarproductions"
         }
     },
     {
