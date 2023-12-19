@@ -77,14 +77,6 @@
         }
     },
     {
-        "id": 89,
-        "name": "Phantaram",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/phantaram"
-        }
-    },
-    {
         "id": 94,
         "name": "Jebro",
         "lang": "en",
@@ -194,15 +186,6 @@
         }
     },
     {
-        "id": 193,
-        "name": "Casual_joker",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/CasualJoker",
-            "twitch": "https://twitch.tv/casual_joker"
-        }
-    },
-    {
         "id": 205,
         "name": "GW2Community.de",
         "lang": "de",
@@ -243,14 +226,6 @@
         "lang": "fr",
         "links": {
             "website": "http://www.gw2shop.net/"
-        }
-    },
-    {
-        "id": 240,
-        "name": "Slaydra",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/slaydra"
         }
     },
     {
@@ -353,14 +328,6 @@
         }
     },
     {
-        "id": 516,
-        "name": "Zeyne",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCMC86eavF1hUrzR1qXAzY4A"
-        }
-    },
-    {
         "id": 517,
         "name": "ProperPlay",
         "lang": "en",
@@ -428,23 +395,6 @@
         }
     },
     {
-        "id": 572,
-        "name": "Bald & Bearded",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCLBJnEz2kNd292pcRI1tjmw",
-            "twitch": "https://twitch.tv/baldandbearded"
-        }
-    },
-    {
-        "id": 580,
-        "name": "Luality",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/luality"
-        }
-    },
-    {
         "id": 583,
         "name": "Gameoliodan",
         "lang": "en",
@@ -495,14 +445,6 @@
         }
     },
     {
-        "id": 627,
-        "name": "[ART] Vasburg",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/evasburg"
-        }
-    },
-    {
         "id": 628,
         "name": "[ART] Landylachs",
         "lang": "en",
@@ -519,14 +461,6 @@
         }
     },
     {
-        "id": 666,
-        "name": "[ART] Pejntboks",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/pejntboks"
-        }
-    },
-    {
         "id": 667,
         "name": "Angryzorric",
         "lang": "en",
@@ -535,43 +469,11 @@
         }
     },
     {
-        "id": 669,
-        "name": "[ART] Zellk",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/zellkabellk"
-        }
-    },
-    {
         "id": 671,
         "name": "MMOShards",
         "lang": "fr",
         "links": {
             "youtube": "https://youtube.com/channel/UCRbTjugiD9NVRKTou2cFNHA"
-        }
-    },
-    {
-        "id": 677,
-        "name": "[ART] Idaida",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/_idaida"
-        }
-    },
-    {
-        "id": 678,
-        "name": "[ART] Tealful Eyes",
-        "lang": "en",
-        "links": {
-            "website": "http://tealfuleyes.com/"
-        }
-    },
-    {
-        "id": 684,
-        "name": "[ART] Sarianne",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/sariannearies"
         }
     },
     {
@@ -600,14 +502,6 @@
         }
     },
     {
-        "id": 704,
-        "name": "[ART] Kedemel",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/kedemel_"
-        }
-    },
-    {
         "id": 708,
         "name": "Nekomuraa",
         "lang": "en",
@@ -621,30 +515,6 @@
         "lang": "en",
         "links": {
             "website": "https://twitter.com/cmyklala"
-        }
-    },
-    {
-        "id": 732,
-        "name": "[ART] Ink4roo",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/Kammimaru"
-        }
-    },
-    {
-        "id": 734,
-        "name": "[ART] Rurush Ichi",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/RurushIchi"
-        }
-    },
-    {
-        "id": 735,
-        "name": "[ART] Keilink",
-        "lang": "en",
-        "links": {
-            "website": "https://keilink.deviantart.com/gallery/"
         }
     },
     {
@@ -689,14 +559,6 @@
         }
     },
     {
-        "id": 775,
-        "name": "[ART] Anneliese Mak",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/anneliese"
-        }
-    },
-    {
         "id": 778,
         "name": "[ART] KoboldArt",
         "lang": "en",
@@ -720,22 +582,6 @@
             "youtube": "https://youtube.com/channel/UCI4OTp_hTECwhSCnJfN90Eg",
             "twitch": "https://twitch.tv/bennyfits",
             "website": "UCI4OTp_hTECwhSCnJfN90Eg"
-        }
-    },
-    {
-        "id": 854,
-        "name": "[ART] Zettanoia",
-        "lang": "en",
-        "links": {
-            "website": "http://zettanoia.tumblr.com/"
-        }
-    },
-    {
-        "id": 868,
-        "name": "[ART] Flesh Gardens",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/fleshgardens"
         }
     },
     {
@@ -962,14 +808,6 @@
         }
     },
     {
-        "id": 1017,
-        "name": "[ART] Robynn Frauhn",
-        "lang": "fr",
-        "links": {
-            "twitch": "https://twitch.tv/robynn_frauhn"
-        }
-    },
-    {
         "id": 1018,
         "name": "Historien Atis",
         "lang": "fr",
@@ -994,15 +832,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCpWG8TI0unjLZhnCkaBNTNQ",
             "twitch": "https://twitch.tv/nomigaming"
-        }
-    },
-    {
-        "id": 1079,
-        "name": "[ART] Paul Canavan",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/paulcanavan",
-            "website": "https://www.artstation.com/paulscottcanavan"
         }
     },
     {
@@ -1064,28 +893,11 @@
         }
     },
     {
-        "id": 1098,
-        "name": "Yellow et Ayki",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCHMLdl9kMKq7gLhIlbf6E0A",
-            "twitch": "https://twitch.tv/yellow_et_ayki"
-        }
-    },
-    {
         "id": 1103,
         "name": "[ART] Inoa",
         "lang": "en",
         "links": {
             "website": "https://www.artstation.com/inoa"
-        }
-    },
-    {
-        "id": 1104,
-        "name": "[ART] Reixart",
-        "lang": "en",
-        "links": {
-            "website": "http://artstation.com/albert_navarro"
         }
     },
     {
