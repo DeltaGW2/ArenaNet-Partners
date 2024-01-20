@@ -129,14 +129,6 @@
         }
     },
     {
-        "id": 149,
-        "name": "Techniq",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/Techniq"
-        }
-    },
-    {
         "id": 155,
         "name": "Metall3x",
         "lang": "en",
@@ -167,14 +159,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCk1HSWl9KMQvmI9kY-4yR5A",
             "twitch": "https://twitch.tv/wuschelcore"
-        }
-    },
-    {
-        "id": 176,
-        "name": "Elfhorys",
-        "lang": "fr",
-        "links": {
-            "twitch": "https://twitch.tv/elfhorys"
         }
     },
     {
@@ -437,14 +421,6 @@
         }
     },
     {
-        "id": 614,
-        "name": "Sugar Wraith",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/@sugarwraith"
-        }
-    },
-    {
         "id": 628,
         "name": "[ART] Landylachs",
         "lang": "en",
@@ -485,15 +461,6 @@
         }
     },
     {
-        "id": 689,
-        "name": "Reaygun",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC36lxyPNkwC-cItdruMXLwA",
-            "twitch": "https://twitch.tv/ReaygunLive"
-        }
-    },
-    {
         "id": 697,
         "name": "Brialeigh",
         "lang": "en",
@@ -515,14 +482,6 @@
         "lang": "en",
         "links": {
             "website": "https://twitter.com/cmyklala"
-        }
-    },
-    {
-        "id": 740,
-        "name": "[ART] Aun Hana",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/aunhana"
         }
     },
     {
@@ -572,16 +531,6 @@
         "lang": "en",
         "links": {
             "website": "https://www.artstation.com/jimmysaadoun"
-        }
-    },
-    {
-        "id": 850,
-        "name": "Bennyfits",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCI4OTp_hTECwhSCnJfN90Eg",
-            "twitch": "https://twitch.tv/bennyfits",
-            "website": "UCI4OTp_hTECwhSCnJfN90Eg"
         }
     },
     {
@@ -698,14 +647,6 @@
         "lang": "en",
         "links": {
             "website": "https://twitter.com/fiaoradd"
-        }
-    },
-    {
-        "id": 932,
-        "name": "[ART] 23Snails",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/snail232323"
         }
     },
     {
@@ -852,14 +793,6 @@
         }
     },
     {
-        "id": 1086,
-        "name": "Dvalin",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/DvalinDK"
-        }
-    },
-    {
         "id": 1087,
         "name": "Laranity",
         "lang": "en",
@@ -874,14 +807,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCgcDJ60QOCj3GjHui8Ws0cg",
             "twitch": "https://twitch.tv/vallun"
-        }
-    },
-    {
-        "id": 1095,
-        "name": "[ART] Victor Tan Design",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/artwork/eaX0WG"
         }
     },
     {
@@ -923,15 +848,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCl3GAs9qkuDIOL4mZ2KoOjQ",
             "twitch": "https://twitch.tv/jawsegaming"
-        }
-    },
-    {
-        "id": 1112,
-        "name": "Kirling",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCTvvH76-B3JhXmjIcdo3pNw",
-            "twitch": "https://twitch.tv/kirling"
         }
     },
     {
