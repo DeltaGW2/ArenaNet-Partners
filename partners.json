@@ -371,6 +371,15 @@
         }
     },
     {
+        "id": 572,
+        "name": "Bald & Bearded",
+        "lang": "en",
+        "links": {
+            "youtube": "https://youtube.com/channel/UCLBJnEz2kNd292pcRI1tjmw",
+            "twitch": "https://twitch.tv/baldandbearded"
+        }
+    },
+    {
         "id": 583,
         "name": "Gameoliodan",
         "lang": "en",
