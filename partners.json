@@ -543,6 +543,16 @@
         }
     },
     {
+        "id": 850,
+        "name": "Bennyfits",
+        "lang": "en",
+        "links": {
+            "youtube": "https://youtube.com/channel/UCI4OTp_hTECwhSCnJfN90Eg",
+            "twitch": "https://twitch.tv/bennyfits",
+            "website": "UCI4OTp_hTECwhSCnJfN90Eg"
+        }
+    },
+    {
         "id": 871,
         "name": "Roelski",
         "lang": "en",
