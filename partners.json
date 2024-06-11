@@ -903,5 +903,40 @@
             "youtube": "https://youtube.com/channel/UC6tw9rxXtgJC1o5f7TtL9fA",
             "website": "https://hardstuck.gg/"
         }
+    },
+    {
+        "id": 1131,
+        "name": "Sheff",
+        "lang": "en",
+        "links": {
+            "youtube": "https://youtube.com/channel/youtube.com/@sheffplaysgames",
+            "twitch": "https://twitch.tv/sheffplaysgames"
+        }
+    },
+    {
+        "id": 1132,
+        "name": "Kiyoshi",
+        "lang": "en",
+        "links": {
+            "youtube": "https://youtube.com/channel/https://www.youtube.com/channel/UCu8-zzzQ-mxbMtSLdEwHczQ",
+            "twitch": "https://twitch.tv/itskiyoshi_"
+        }
+    },
+    {
+        "id": 1133,
+        "name": "Raava",
+        "lang": "en",
+        "links": {
+            "twitch": "https://twitch.tv/https://www.twitch.tv/raava"
+        }
+    },
+    {
+        "id": 1134,
+        "name": "Malchemist",
+        "lang": "en",
+        "links": {
+            "youtube": "https://youtube.com/channel/MalchemistTV",
+            "twitch": "https://twitch.tv/MalchemistTV"
+        }
     }
 ]
