@@ -562,14 +562,6 @@
         }
     },
     {
-        "id": 877,
-        "name": "Enviously",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/Enviously"
-        }
-    },
-    {
         "id": 880,
         "name": "Rediche",
         "lang": "en",
@@ -909,7 +901,7 @@
         "name": "Sheff",
         "lang": "en",
         "links": {
-            "youtube": "https://youtube.com/channel/youtube.com/@sheffplaysgames",
+            "youtube": "https://youtube.com/channel/UC1Oo3M86NV0ddYvQglxtKMQ",
             "twitch": "https://twitch.tv/sheffplaysgames"
         }
     },
@@ -918,7 +910,7 @@
         "name": "Kiyoshi",
         "lang": "en",
         "links": {
-            "youtube": "https://youtube.com/channel/https://www.youtube.com/channel/UCu8-zzzQ-mxbMtSLdEwHczQ",
+            "youtube": "https://youtube.com/channel/UCu8-zzzQ-mxbMtSLdEwHczQ",
             "twitch": "https://twitch.tv/itskiyoshi_"
         }
     },
@@ -927,7 +919,8 @@
         "name": "Raava",
         "lang": "en",
         "links": {
-            "twitch": "https://twitch.tv/https://www.twitch.tv/raava"
+            "youtube": "https://youtube.com/channel/UCf8Y-tj6P1WYCNOhThEzxSw",
+            "twitch": "https://twitch.tv/raava"
         }
     },
     {
@@ -935,7 +928,7 @@
         "name": "Malchemist",
         "lang": "en",
         "links": {
-            "youtube": "https://youtube.com/channel/MalchemistTV",
+            "youtube": "https://youtube.com/channel/UCkC-VPb_RRHwATmcZLJBfJA",
             "twitch": "https://twitch.tv/MalchemistTV"
         }
     }
