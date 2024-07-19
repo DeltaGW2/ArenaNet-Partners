@@ -9,15 +9,6 @@
         }
     },
     {
-        "id": 5,
-        "name": "Honeyball",
-        "lang": "de",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCwF-rMpz0gbgWZIbrgGXuGQ",
-            "twitch": "https://twitch.tv/KritzelPixel"
-        }
-    },
-    {
         "id": 8,
         "name": "GuildNews",
         "lang": "de",
@@ -69,14 +60,6 @@
         }
     },
     {
-        "id": 85,
-        "name": "ROM",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/roms_hut"
-        }
-    },
-    {
         "id": 94,
         "name": "Jebro",
         "lang": "en",
@@ -112,15 +95,6 @@
         }
     },
     {
-        "id": 132,
-        "name": "TheVexios",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/https://www.youtube.com/FariFariNos",
-            "twitch": "https://twitch.tv/VexiosReal"
-        }
-    },
-    {
         "id": 142,
         "name": "QMGSaint",
         "lang": "en",
@@ -137,28 +111,11 @@
         }
     },
     {
-        "id": 161,
-        "name": "Five Gauge",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/chaithh"
-        }
-    },
-    {
         "id": 162,
         "name": "Noscoc",
         "lang": "en",
         "links": {
             "twitch": "https://twitch.tv/noscoc"
-        }
-    },
-    {
-        "id": 170,
-        "name": "Wuschelcore",
-        "lang": "de",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCk1HSWl9KMQvmI9kY-4yR5A",
-            "twitch": "https://twitch.tv/wuschelcore"
         }
     },
     {
@@ -288,14 +245,6 @@
         }
     },
     {
-        "id": 500,
-        "name": "Dawnwhisper",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/dawnwhisper"
-        }
-    },
-    {
         "id": 502,
         "name": "Baderas",
         "lang": "fr",
@@ -325,14 +274,6 @@
         "lang": "de",
         "links": {
             "twitch": "https://twitch.tv/herrhaerter"
-        }
-    },
-    {
-        "id": 524,
-        "name": "Ahikocake",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/ahikocake"
         }
     },
     {
@@ -377,15 +318,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCLBJnEz2kNd292pcRI1tjmw",
             "twitch": "https://twitch.tv/baldandbearded"
-        }
-    },
-    {
-        "id": 583,
-        "name": "Gameoliodan",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCCAKMl95mqVFa3eQqvPocOA",
-            "twitch": "https://twitch.tv/gameoliodan"
         }
     },
     {
@@ -470,14 +402,6 @@
         }
     },
     {
-        "id": 708,
-        "name": "Nekomuraa",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/nekomura"
-        }
-    },
-    {
         "id": 718,
         "name": "[ART] La",
         "lang": "en",
@@ -507,15 +431,6 @@
         "lang": "en",
         "links": {
             "website": "https://twitter.com/MariusBota"
-        }
-    },
-    {
-        "id": 772,
-        "name": "[ART] Owlma",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/owlma85",
-            "website": "https://twitter.com/Owlma85"
         }
     },
     {
@@ -768,14 +683,6 @@
         "links": {
             "youtube": "https://youtube.com/channel/UCpWG8TI0unjLZhnCkaBNTNQ",
             "twitch": "https://twitch.tv/nomigaming"
-        }
-    },
-    {
-        "id": 1084,
-        "name": "Heroic Flamingo",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCYaoirqO6XE5sLHlEqOD3Zw"
         }
     },
     {
