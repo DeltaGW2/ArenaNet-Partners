@@ -418,27 +418,11 @@
         }
     },
     {
-        "id": 744,
-        "name": "[ART] Qesque",
-        "lang": "en",
-        "links": {
-            "website": "qesques"
-        }
-    },
-    {
         "id": 770,
         "name": "[ART] Marius Bota",
         "lang": "en",
         "links": {
             "website": "https://twitter.com/MariusBota"
-        }
-    },
-    {
-        "id": 778,
-        "name": "[ART] KoboldArt",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/koboldart/albums/all"
         }
     },
     {
