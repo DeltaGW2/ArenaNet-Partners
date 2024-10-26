@@ -34,15 +34,6 @@
         }
     },
     {
-        "id": 29,
-        "name": "Retrolove TV",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCkMRpFVhgml_Z1JkZ0M9EwA",
-            "twitch": "https://twitch.tv/retrolovetv"
-        }
-    },
-    {
         "id": 76,
         "name": "Aurora Peachy",
         "lang": "en",
@@ -226,14 +217,6 @@
         "lang": "fr",
         "links": {
             "youtube": "https://youtube.com/channel/UCmsmuON1J8oeqXeLXdMj4hw"
-        }
-    },
-    {
-        "id": 404,
-        "name": "Jesstice",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/Jesstice"
         }
     },
     {
@@ -533,15 +516,6 @@
         "lang": "en",
         "links": {
             "website": "https://twitter.com/fiaoradd"
-        }
-    },
-    {
-        "id": 938,
-        "name": "The Cryophoenix",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCfWxpxdyWiyC2pm-XFxn7Jw",
-            "twitch": "https://twitch.tv/thecryophoenix"
         }
     },
     {
