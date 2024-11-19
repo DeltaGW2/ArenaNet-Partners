@@ -287,28 +287,11 @@
         }
     },
     {
-        "id": 572,
-        "name": "Bald & Bearded",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCLBJnEz2kNd292pcRI1tjmw",
-            "twitch": "https://twitch.tv/baldandbearded"
-        }
-    },
-    {
         "id": 591,
         "name": "Micka Gamer",
         "lang": "fr",
         "links": {
             "twitch": "https://twitch.tv/mickagamer_"
-        }
-    },
-    {
-        "id": 593,
-        "name": "Aralis",
-        "lang": "fr",
-        "links": {
-            "twitch": "https://twitch.tv/Aralis"
         }
     },
     {
@@ -409,16 +392,6 @@
         }
     },
     {
-        "id": 850,
-        "name": "Bennyfits",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCI4OTp_hTECwhSCnJfN90Eg",
-            "twitch": "https://twitch.tv/bennyfits",
-            "website": "UCI4OTp_hTECwhSCnJfN90Eg"
-        }
-    },
-    {
         "id": 871,
         "name": "Roelski",
         "lang": "en",
@@ -484,14 +457,6 @@
         "lang": "en",
         "links": {
             "twitch": "https://twitch.tv/mukluk"
-        }
-    },
-    {
-        "id": 919,
-        "name": "Gods of PvP",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/angeels"
         }
     },
     {
