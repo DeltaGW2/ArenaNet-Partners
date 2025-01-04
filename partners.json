@@ -2,8 +2,9 @@
   {
     "id": 4,
     "name": "Wooden Potatoes",
-  Successfully extracted and processed partners data.
-ps://youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA",
       "twitch": "https://twitch.tv/woodenpotatoes"
     }
   },
