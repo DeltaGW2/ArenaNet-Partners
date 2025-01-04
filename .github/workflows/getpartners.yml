@@ -1,0 +1,38 @@
+name: Fetch and Process Partners
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:
+    # Allows manual triggering of the action
+
+jobs:
+  fetch-partners:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Fetch partners data
+        run: |
+          # Use curl to fetch the webpage and save it as raw HTML
+          curl -sSL https://welcome.guildwars2.com/en/partner-program -o page.html
+
+      - name: Extract and transform data
+        run: |
+          # Run the provided JavaScript snippet on the fetched HTML file
+          node getPartners.js > partners.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add partners.json
+          git commit -m "Update partners.json on $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git push
