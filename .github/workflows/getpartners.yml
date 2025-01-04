@@ -19,6 +19,9 @@ jobs:
         with:
           node-version: '16'
 
+      - name: Install dependencies
+        run: npm install jsdom
+
       - name: Fetch partners data
         run: |
           # Use curl to fetch the webpage and save it as raw HTML
