@@ -45,4 +45,5 @@ if (partnersScript) {
         console.error('Failed to find the end of the partners data.');
     }
 } else {
-    co
+    console.error('Target inline script containing "partners = [{" not found.');
+}
