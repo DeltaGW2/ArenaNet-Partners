@@ -1,741 +1,740 @@
 [
-    {
-        "id": 4,
-        "name": "Wooden Potatoes",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA",
-            "twitch": "https://twitch.tv/woodenpotatoes"
-        }
-    },
-    {
-        "id": 8,
-        "name": "GuildNews",
-        "lang": "de",
-        "links": {
-            "twitch": "https://twitch.tv/guildnews",
-            "website": "http://guildnews.de/"
-        }
-    },
-    {
-        "id": 12,
-        "name": "Kazhamania",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC4co9wT8hjTcPCClFDdN7bg"
-        }
-    },
-    {
-        "id": 14,
-        "name": "YukieKoori",
-        "lang": "es",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC2FJRG2dQ7svRyE85oXpmHw"
-        }
-    },
-    {
-        "id": 76,
-        "name": "Aurora Peachy",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCrzoluANZlhi24mlQVouTmg",
-            "twitch": "https://twitch.tv/aurorapeachy"
-        }
-    },
-    {
-        "id": 79,
-        "name": "MightyTeapot",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/MightyTeapot"
-        }
-    },
-    {
-        "id": 94,
-        "name": "Jebro",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCYcZuPaZfonVRjeqFpRukqA",
-            "twitch": "https://twitch.tv/jebrounity"
-        }
-    },
-    {
-        "id": 97,
-        "name": "Bootts",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCY7xwSpkcS3cOno6fo5J8ag",
-            "twitch": "https://twitch.tv/Bootts_"
-        }
-    },
-    {
-        "id": 104,
-        "name": "Waffle",
-        "lang": "fr",
-        "links": {
-            "twitch": "https://twitch.tv/viking_et_waffle"
-        }
-    },
-    {
-        "id": 125,
-        "name": "FariFariNos",
-        "lang": "es",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCwbd-346bA2F5snJkYJvbXw",
-            "twitch": "https://twitch.tv/Fari_nos"
-        }
-    },
-    {
-        "id": 155,
-        "name": "Metall3x",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/Metall3x"
-        }
-    },
-    {
-        "id": 162,
-        "name": "Noscoc",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/noscoc"
-        }
-    },
-    {
-        "id": 190,
-        "name": "Gladomer",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/gladomer"
-        }
-    },
-    {
-        "id": 205,
-        "name": "GW2Community.de",
-        "lang": "de",
-        "links": {
-            "website": "http://www.gw2community.de/"
-        }
-    },
-    {
-        "id": 210,
-        "name": "Le Bus Magique",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCmXqN_mnZFXNBsFm5zCs7BA",
-            "twitch": "https://twitch.tv/lebusmagique",
-            "website": "http://www.lebusmagique.fr/"
-        }
-    },
-    {
-        "id": 212,
-        "name": "TheJuliaTrin",
-        "lang": "de",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCJRsX7AJEiKuocI88u6LfFw",
-            "twitch": "https://twitch.tv/juliatrin"
-        }
-    },
-    {
-        "id": 233,
-        "name": "GW2.fr",
-        "lang": "fr",
-        "links": {
-            "website": "http://www.gw2.fr"
-        }
-    },
-    {
-        "id": 234,
-        "name": "GW2Shop",
-        "lang": "fr",
-        "links": {
-            "website": "http://www.gw2shop.net/"
-        }
-    },
-    {
-        "id": 250,
-        "name": "Chronicles of Tyria",
-        "lang": "en",
-        "links": {
-            "website": "http://www.chroniclesoftyria.com/"
-        }
-    },
-    {
-        "id": 284,
-        "name": "Bourrinator",
-        "lang": "fr",
-        "links": {
-            "twitch": "https://twitch.tv/bourrinator"
-        }
-    },
-    {
-        "id": 291,
-        "name": "MrAuronTV",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCFHl4zgocJdBVq4VjtXekaQ",
-            "twitch": "https://twitch.tv/mraurontv"
-        }
-    },
-    {
-        "id": 314,
-        "name": "Samajestay",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCFj6RlDTF731AfH9rS_CHIA",
-            "twitch": "https://twitch.tv/samajestay"
-        }
-    },
-    {
-        "id": 355,
-        "name": "RejjaOnAir",
-        "lang": "de",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC_6ZZr7B4XbF9M7DYw2lpbw",
-            "twitch": "https://twitch.tv/rejjaonair"
-        }
-    },
-    {
-        "id": 395,
-        "name": "NicoLeChti",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC8gLMM6kmmBy6CEwRyxLQjQ"
-        }
-    },
-    {
-        "id": 402,
-        "name": "Rising Sun",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCmsmuON1J8oeqXeLXdMj4hw"
-        }
-    },
-    {
-        "id": 502,
-        "name": "Baderas",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCxtwAoh3sXq4tP6pM8LikAg"
-        }
-    },
-    {
-        "id": 517,
-        "name": "ProperPlay",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/propersplace"
-        }
-    },
-    {
-        "id": 520,
-        "name": "Fashionfuchs",
-        "lang": "de",
-        "links": {
-            "twitch": "https://twitch.tv/fashionfuchs"
-        }
-    },
-    {
-        "id": 521,
-        "name": "Durden",
-        "lang": "de",
-        "links": {
-            "twitch": "https://twitch.tv/herrhaerter"
-        }
-    },
-    {
-        "id": 530,
-        "name": "Jazzxman",
-        "lang": "de",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCFNJ1oqEc0Rku0bSdRbFdNg",
-            "twitch": "https://twitch.tv/jazzxman"
-        }
-    },
-    {
-        "id": 539,
-        "name": "Sindrener",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/sindrener"
-        }
-    },
-    {
-        "id": 570,
-        "name": "AyinMaiden",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCU7b8z048_KTxWw6mbpZoZA",
-            "twitch": "https://twitch.tv/ayinmaiden"
-        }
-    },
-    {
-        "id": 571,
-        "name": "KROOF",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCjHqZPMTQZTou6r6LzcJgVw",
-            "twitch": "https://twitch.tv/kroof_"
-        }
-    },
-    {
-        "id": 591,
-        "name": "Micka Gamer",
-        "lang": "fr",
-        "links": {
-            "twitch": "https://twitch.tv/mickagamer_"
-        }
-    },
-    {
-        "id": 602,
-        "name": "The Krytan Herald",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC9Sl1KHLtMcJEXZvTodr5LQ"
-        }
-    },
-    {
-        "id": 613,
-        "name": "GRM Adrian",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCuopamYB6RRpw3fVMANA8Hg",
-            "website": "UCuopamYB6RRpw3fVMANA8Hg"
-        }
-    },
-    {
-        "id": 628,
-        "name": "[ART] Landylachs",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/landylachs"
-        }
-    },
-    {
-        "id": 634,
-        "name": "[ART] Gears2Gnomes",
-        "lang": "en",
-        "links": {
-            "website": "http://gears2gnomes.tumblr.com/"
-        }
-    },
-    {
-        "id": 671,
-        "name": "MMOShards",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCRbTjugiD9NVRKTou2cFNHA"
-        }
-    },
-    {
-        "id": 687,
-        "name": "[ART] Changer The Elder",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/whitewolfburrow"
-        }
-    },
-    {
-        "id": 697,
-        "name": "Brialeigh",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/brialeigh"
-        }
-    },
-    {
-        "id": 718,
-        "name": "[ART] La",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/cmyklala"
-        }
-    },
-    {
-        "id": 743,
-        "name": "[ART] Zorav",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/GW2Collective"
-        }
-    },
-    {
-        "id": 770,
-        "name": "[ART] Marius Bota",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/MariusBota"
-        }
-    },
-    {
-        "id": 849,
-        "name": "[ART] Jimmy Saadoun",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/jimmysaadoun"
-        }
-    },
-    {
-        "id": 871,
-        "name": "Roelski",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCzQm0KJyzRHEVzY-H31YJAQ"
-        }
-    },
-    {
-        "id": 874,
-        "name": "Keyba",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/Keyba1001",
-            "twitch": "https://twitch.tv/keyyba"
-        }
-    },
-    {
-        "id": 880,
-        "name": "Rediche",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCnG3FBea4nY_kBx36p5Dsbg",
-            "twitch": "https://twitch.tv/rediche"
-        }
-    },
-    {
-        "id": 885,
-        "name": "Plenyx",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCfg8KIovmBGX6kxogs0oKIA",
-            "twitch": "https://twitch.tv/plenyx"
-        }
-    },
-    {
-        "id": 905,
-        "name": "Shayrianna",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/Shayrianna"
-        }
-    },
-    {
-        "id": 908,
-        "name": "Tiffymisswiffy",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCJJz2-zbinXofmbLFXxA-AQ",
-            "twitch": "https://twitch.tv/TiffyMissWiffy"
-        }
-    },
-    {
-        "id": 909,
-        "name": "Rookuri",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/rookuri"
-        }
-    },
-    {
-        "id": 914,
-        "name": "Mukluk",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/mukluk"
-        }
-    },
-    {
-        "id": 921,
-        "name": "Kyosika",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg"
-        }
-    },
-    {
-        "id": 925,
-        "name": "[ART] Shunkaku",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/Shunkaku"
-        }
-    },
-    {
-        "id": 931,
-        "name": "[ART] Fiaoradd",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/fiaoradd"
-        }
-    },
-    {
-        "id": 950,
-        "name": "Tatsuota",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/Tatsuota"
-        }
-    },
-    {
-        "id": 954,
-        "name": "Guild Wars 2 Mists",
-        "lang": "en",
-        "links": {
-            "website": "https://gw2mists.de/"
-        }
-    },
-    {
-        "id": 955,
-        "name": "Snow Crows",
-        "lang": "en",
-        "links": {
-            "website": "https://snowcrows.com/"
-        }
-    },
-    {
-        "id": 961,
-        "name": "TinyBlueGames",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCcdGOu7g4oVMrGwydib09fQ"
-        }
-    },
-    {
-        "id": 964,
-        "name": "Emidotexe",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/emidotexe"
-        }
-    },
-    {
-        "id": 988,
-        "name": "GW2 Efficiency",
-        "lang": "en",
-        "links": {
-            "website": "https://gw2efficiency.com/"
-        }
-    },
-    {
-        "id": 989,
-        "name": "Chickenooble",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCuj0Y1LvPW8nT1eYbCBV4Cg",
-            "twitch": "https://twitch.tv/chickenooble",
-            "website": ""
-        }
-    },
-    {
-        "id": 990,
-        "name": "ArihMoon",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/JustArih"
-        }
-    },
-    {
-        "id": 991,
-        "name": "[ART] Dies Vitae",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/diesvitae"
-        }
-    },
-    {
-        "id": 1000,
-        "name": "SebGa",
-        "lang": "de",
-        "links": {
-            "twitch": "https://twitch.tv/sebga"
-        }
-    },
-    {
-        "id": 1015,
-        "name": "Uncle Skarzi",
-        "lang": "fr",
-        "links": {
-            "twitch": "https://twitch.tv/uncleskarzi"
-        }
-    },
-    {
-        "id": 1018,
-        "name": "Historien Atis",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC5r2e4w4t33hZegluRdPvEw",
-            "twitch": "https://twitch.tv/historienatis"
-        }
-    },
-    {
-        "id": 1053,
-        "name": "[ART] Kata Kemi",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/angeladyart",
-            "website": "https://ange-art.carrd.co/"
-        }
-    },
-    {
-        "id": 1078,
-        "name": "Nomi Gaming",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCpWG8TI0unjLZhnCkaBNTNQ",
-            "twitch": "https://twitch.tv/nomigaming"
-        }
-    },
-    {
-        "id": 1085,
-        "name": "Xandrii",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCnr8dELi23JPrwUlb42KLXQ",
-            "twitch": "https://twitch.tv/xandrii"
-        }
-    },
-    {
-        "id": 1087,
-        "name": "Laranity",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/laranity"
-        }
-    },
-    {
-        "id": 1096,
-        "name": "[ART] Kasimova",
-        "lang": "en",
-        "links": {
-            "website": ""
-        }
-    },
-    {
-        "id": 1103,
-        "name": "[ART] Inoa",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/inoa"
-        }
-    },
-    {
-        "id": 1105,
-        "name": "DeimosThea",
-        "lang": "en",
-        "links": {
-            "twitch": "https://twitch.tv/deimosthea"
-        }
-    },
-    {
-        "id": 1106,
-        "name": "[ART] Ilona",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/ilona-iske"
-        }
-    },
-    {
-        "id": 1111,
-        "name": "JawseGaming",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCl3GAs9qkuDIOL4mZ2KoOjQ",
-            "twitch": "https://twitch.tv/jawsegaming"
-        }
-    },
-    {
-        "id": 1116,
-        "name": "Snebzor",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCnFjR4NH0zlB-jjesZ-EqPA",
-            "twitch": "https://twitch.tv/snebzor"
-        }
-    },
-    {
-        "id": 1118,
-        "name": "[ART] Syti",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/syti"
-        }
-    },
-    {
-        "id": 1119,
-        "name": "[ART] Achromant \"Skal\"",
-        "lang": "en",
-        "links": {
-            "website": "https://www.artstation.com/achromant"
-        }
-    },
-    {
-        "id": 1122,
-        "name": "Loreline",
-        "lang": "de",
-        "links": {
-            "youtube": "https://youtube.com/channel/loreline_by_aouglas",
-            "twitch": "https://twitch.tv/loreline_de",
-            "website": "https://loreline.de/de/"
-        }
-    },
-    {
-        "id": 1123,
-        "name": "Zori",
-        "lang": "fr",
-        "links": {
-            "youtube": "https://youtube.com/channel/@Zori_le_Conteur_Nain"
-        }
-    },
-    {
-        "id": 1125,
-        "name": "[ART] Ametat",
-        "lang": "en",
-        "links": {
-            "website": "https://twitter.com/Ametat2"
-        }
-    },
-    {
-        "id": 1126,
-        "name": "Hardstuck",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC6tw9rxXtgJC1o5f7TtL9fA",
-            "website": "https://hardstuck.gg/"
-        }
-    },
-    {
-        "id": 1131,
-        "name": "Sheff",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UC1Oo3M86NV0ddYvQglxtKMQ",
-            "twitch": "https://twitch.tv/sheffplaysgames"
-        }
-    },
-    {
-        "id": 1132,
-        "name": "Kiyoshi",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCu8-zzzQ-mxbMtSLdEwHczQ",
-            "twitch": "https://twitch.tv/itskiyoshi_"
-        }
-    },
-    {
-        "id": 1133,
-        "name": "Raava",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCf8Y-tj6P1WYCNOhThEzxSw",
-            "twitch": "https://twitch.tv/raava"
-        }
-    },
-    {
-        "id": 1134,
-        "name": "Malchemist",
-        "lang": "en",
-        "links": {
-            "youtube": "https://youtube.com/channel/UCkC-VPb_RRHwATmcZLJBfJA",
-            "twitch": "https://twitch.tv/MalchemistTV"
-        }
+  {
+    "id": 4,
+    "name": "Wooden Potatoes",
+  Successfully extracted and processed partners data.
+ps://youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA",
+      "twitch": "https://twitch.tv/woodenpotatoes"
     }
+  },
+  {
+    "id": 8,
+    "name": "GuildNews",
+    "lang": "de",
+    "links": {
+      "twitch": "https://twitch.tv/guildnews",
+      "website": "http://guildnews.de/"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Kazhamania",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC4co9wT8hjTcPCClFDdN7bg"
+    }
+  },
+  {
+    "id": 14,
+    "name": "YukieKoori",
+    "lang": "es",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC2FJRG2dQ7svRyE85oXpmHw"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Aurora Peachy",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCrzoluANZlhi24mlQVouTmg",
+      "twitch": "https://twitch.tv/aurorapeachy"
+    }
+  },
+  {
+    "id": 79,
+    "name": "MightyTeapot",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/MightyTeapot"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Jebro",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCYcZuPaZfonVRjeqFpRukqA",
+      "twitch": "https://twitch.tv/jebrounity"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Bootts",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCY7xwSpkcS3cOno6fo5J8ag",
+      "twitch": "https://twitch.tv/Bootts_"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Waffle",
+    "lang": "fr",
+    "links": {
+      "twitch": "https://twitch.tv/viking_et_waffle"
+    }
+  },
+  {
+    "id": 125,
+    "name": "FariFariNos",
+    "lang": "es",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCwbd-346bA2F5snJkYJvbXw",
+      "twitch": "https://twitch.tv/Fari_nos"
+    }
+  },
+  {
+    "id": 155,
+    "name": "Metall3x",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/Metall3x"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Noscoc",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/noscoc"
+    }
+  },
+  {
+    "id": 190,
+    "name": "Gladomer",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/gladomer"
+    }
+  },
+  {
+    "id": 205,
+    "name": "GW2Community.de",
+    "lang": "de",
+    "links": {
+      "website": "http://www.gw2community.de/"
+    }
+  },
+  {
+    "id": 210,
+    "name": "Le Bus Magique",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCmXqN_mnZFXNBsFm5zCs7BA",
+      "twitch": "https://twitch.tv/lebusmagique",
+      "website": "http://www.lebusmagique.fr/"
+    }
+  },
+  {
+    "id": 212,
+    "name": "TheJuliaTrin",
+    "lang": "de",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCJRsX7AJEiKuocI88u6LfFw",
+      "twitch": "https://twitch.tv/juliatrin"
+    }
+  },
+  {
+    "id": 233,
+    "name": "GW2.fr",
+    "lang": "fr",
+    "links": {
+      "website": "http://www.gw2.fr"
+    }
+  },
+  {
+    "id": 234,
+    "name": "GW2Shop",
+    "lang": "fr",
+    "links": {
+      "website": "http://www.gw2shop.net/"
+    }
+  },
+  {
+    "id": 250,
+    "name": "Chronicles of Tyria",
+    "lang": "en",
+    "links": {
+      "website": "http://www.chroniclesoftyria.com/"
+    }
+  },
+  {
+    "id": 284,
+    "name": "Bourrinator",
+    "lang": "fr",
+    "links": {
+      "twitch": "https://twitch.tv/bourrinator"
+    }
+  },
+  {
+    "id": 291,
+    "name": "MrAuronTV",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCFHl4zgocJdBVq4VjtXekaQ",
+      "twitch": "https://twitch.tv/mraurontv"
+    }
+  },
+  {
+    "id": 314,
+    "name": "Samajestay",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCFj6RlDTF731AfH9rS_CHIA",
+      "twitch": "https://twitch.tv/samajestay"
+    }
+  },
+  {
+    "id": 355,
+    "name": "RejjaOnAir",
+    "lang": "de",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC_6ZZr7B4XbF9M7DYw2lpbw",
+      "twitch": "https://twitch.tv/rejjaonair"
+    }
+  },
+  {
+    "id": 395,
+    "name": "NicoLeChti",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC8gLMM6kmmBy6CEwRyxLQjQ"
+    }
+  },
+  {
+    "id": 402,
+    "name": "Rising Sun",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCmsmuON1J8oeqXeLXdMj4hw"
+    }
+  },
+  {
+    "id": 502,
+    "name": "Baderas",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCxtwAoh3sXq4tP6pM8LikAg"
+    }
+  },
+  {
+    "id": 517,
+    "name": "ProperPlay",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/propersplace"
+    }
+  },
+  {
+    "id": 520,
+    "name": "Fashionfuchs",
+    "lang": "de",
+    "links": {
+      "twitch": "https://twitch.tv/fashionfuchs"
+    }
+  },
+  {
+    "id": 521,
+    "name": "Durden",
+    "lang": "de",
+    "links": {
+      "twitch": "https://twitch.tv/herrhaerter"
+    }
+  },
+  {
+    "id": 530,
+    "name": "Jazzxman",
+    "lang": "de",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCFNJ1oqEc0Rku0bSdRbFdNg",
+      "twitch": "https://twitch.tv/jazzxman"
+    }
+  },
+  {
+    "id": 539,
+    "name": "Sindrener",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/sindrener"
+    }
+  },
+  {
+    "id": 570,
+    "name": "AyinMaiden",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCU7b8z048_KTxWw6mbpZoZA",
+      "twitch": "https://twitch.tv/ayinmaiden"
+    }
+  },
+  {
+    "id": 571,
+    "name": "KROOF",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCjHqZPMTQZTou6r6LzcJgVw",
+      "twitch": "https://twitch.tv/kroof_"
+    }
+  },
+  {
+    "id": 591,
+    "name": "Micka Gamer",
+    "lang": "fr",
+    "links": {
+      "twitch": "https://twitch.tv/mickagamer_"
+    }
+  },
+  {
+    "id": 602,
+    "name": "The Krytan Herald",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC9Sl1KHLtMcJEXZvTodr5LQ"
+    }
+  },
+  {
+    "id": 613,
+    "name": "GRM Adrian",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCuopamYB6RRpw3fVMANA8Hg",
+      "website": "UCuopamYB6RRpw3fVMANA8Hg"
+    }
+  },
+  {
+    "id": 628,
+    "name": "[ART] Landylachs",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/landylachs"
+    }
+  },
+  {
+    "id": 634,
+    "name": "[ART] Gears2Gnomes",
+    "lang": "en",
+    "links": {
+      "website": "http://gears2gnomes.tumblr.com/"
+    }
+  },
+  {
+    "id": 671,
+    "name": "MMOShards",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCRbTjugiD9NVRKTou2cFNHA"
+    }
+  },
+  {
+    "id": 687,
+    "name": "[ART] Changer The Elder",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/whitewolfburrow"
+    }
+  },
+  {
+    "id": 697,
+    "name": "Brialeigh",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/brialeigh"
+    }
+  },
+  {
+    "id": 718,
+    "name": "[ART] La",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/cmyklala"
+    }
+  },
+  {
+    "id": 743,
+    "name": "[ART] Zorav",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/GW2Collective"
+    }
+  },
+  {
+    "id": 770,
+    "name": "[ART] Marius Bota",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/MariusBota"
+    }
+  },
+  {
+    "id": 849,
+    "name": "[ART] Jimmy Saadoun",
+    "lang": "en",
+    "links": {
+      "website": "https://www.artstation.com/jimmysaadoun"
+    }
+  },
+  {
+    "id": 871,
+    "name": "Roelski",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCzQm0KJyzRHEVzY-H31YJAQ"
+    }
+  },
+  {
+    "id": 874,
+    "name": "Keyba",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/Keyba1001",
+      "twitch": "https://twitch.tv/keyyba"
+    }
+  },
+  {
+    "id": 880,
+    "name": "Rediche",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCnG3FBea4nY_kBx36p5Dsbg",
+      "twitch": "https://twitch.tv/rediche"
+    }
+  },
+  {
+    "id": 885,
+    "name": "Plenyx",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCfg8KIovmBGX6kxogs0oKIA",
+      "twitch": "https://twitch.tv/plenyx"
+    }
+  },
+  {
+    "id": 905,
+    "name": "Shayrianna",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/Shayrianna"
+    }
+  },
+  {
+    "id": 908,
+    "name": "Tiffymisswiffy",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCJJz2-zbinXofmbLFXxA-AQ",
+      "twitch": "https://twitch.tv/TiffyMissWiffy"
+    }
+  },
+  {
+    "id": 909,
+    "name": "Rookuri",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/rookuri"
+    }
+  },
+  {
+    "id": 914,
+    "name": "Mukluk",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/mukluk"
+    }
+  },
+  {
+    "id": 921,
+    "name": "Kyosika",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg"
+    }
+  },
+  {
+    "id": 925,
+    "name": "[ART] Shunkaku",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/Shunkaku"
+    }
+  },
+  {
+    "id": 931,
+    "name": "[ART] Fiaoradd",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/fiaoradd"
+    }
+  },
+  {
+    "id": 950,
+    "name": "Tatsuota",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/Tatsuota"
+    }
+  },
+  {
+    "id": 954,
+    "name": "Guild Wars 2 Mists",
+    "lang": "en",
+    "links": {
+      "website": "https://gw2mists.de/"
+    }
+  },
+  {
+    "id": 955,
+    "name": "Snow Crows",
+    "lang": "en",
+    "links": {
+      "website": "https://snowcrows.com/"
+    }
+  },
+  {
+    "id": 961,
+    "name": "TinyBlueGames",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCcdGOu7g4oVMrGwydib09fQ"
+    }
+  },
+  {
+    "id": 964,
+    "name": "Emidotexe",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/emidotexe"
+    }
+  },
+  {
+    "id": 988,
+    "name": "GW2 Efficiency",
+    "lang": "en",
+    "links": {
+      "website": "https://gw2efficiency.com/"
+    }
+  },
+  {
+    "id": 989,
+    "name": "Chickenooble",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCuj0Y1LvPW8nT1eYbCBV4Cg",
+      "twitch": "https://twitch.tv/chickenooble",
+      "website": ""
+    }
+  },
+  {
+    "id": 990,
+    "name": "ArihMoon",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/JustArih"
+    }
+  },
+  {
+    "id": 991,
+    "name": "[ART] Dies Vitae",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/diesvitae"
+    }
+  },
+  {
+    "id": 1000,
+    "name": "SebGa",
+    "lang": "de",
+    "links": {
+      "twitch": "https://twitch.tv/sebga"
+    }
+  },
+  {
+    "id": 1015,
+    "name": "Uncle Skarzi",
+    "lang": "fr",
+    "links": {
+      "twitch": "https://twitch.tv/uncleskarzi"
+    }
+  },
+  {
+    "id": 1018,
+    "name": "Historien Atis",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC5r2e4w4t33hZegluRdPvEw",
+      "twitch": "https://twitch.tv/historienatis"
+    }
+  },
+  {
+    "id": 1053,
+    "name": "[ART] Kata Kemi",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/angeladyart",
+      "website": "https://ange-art.carrd.co/"
+    }
+  },
+  {
+    "id": 1078,
+    "name": "Nomi Gaming",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCpWG8TI0unjLZhnCkaBNTNQ",
+      "twitch": "https://twitch.tv/nomigaming"
+    }
+  },
+  {
+    "id": 1085,
+    "name": "Xandrii",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCnr8dELi23JPrwUlb42KLXQ",
+      "twitch": "https://twitch.tv/xandrii"
+    }
+  },
+  {
+    "id": 1087,
+    "name": "Laranity",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/laranity"
+    }
+  },
+  {
+    "id": 1096,
+    "name": "[ART] Kasimova",
+    "lang": "en",
+    "links": {
+      "website": ""
+    }
+  },
+  {
+    "id": 1103,
+    "name": "[ART] Inoa",
+    "lang": "en",
+    "links": {
+      "website": "https://www.artstation.com/inoa"
+    }
+  },
+  {
+    "id": 1105,
+    "name": "DeimosThea",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/deimosthea"
+    }
+  },
+  {
+    "id": 1106,
+    "name": "[ART] Ilona",
+    "lang": "en",
+    "links": {
+      "website": "https://www.artstation.com/ilona-iske"
+    }
+  },
+  {
+    "id": 1111,
+    "name": "JawseGaming",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCl3GAs9qkuDIOL4mZ2KoOjQ",
+      "twitch": "https://twitch.tv/jawsegaming"
+    }
+  },
+  {
+    "id": 1116,
+    "name": "Snebzor",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCnFjR4NH0zlB-jjesZ-EqPA",
+      "twitch": "https://twitch.tv/snebzor"
+    }
+  },
+  {
+    "id": 1118,
+    "name": "[ART] Syti",
+    "lang": "en",
+    "links": {
+      "website": "https://www.artstation.com/syti"
+    }
+  },
+  {
+    "id": 1119,
+    "name": "[ART] Achromant \"Skal\"",
+    "lang": "en",
+    "links": {
+      "website": "https://www.artstation.com/achromant"
+    }
+  },
+  {
+    "id": 1122,
+    "name": "Loreline",
+    "lang": "de",
+    "links": {
+      "youtube": "https://youtube.com/channel/loreline_by_aouglas",
+      "twitch": "https://twitch.tv/loreline_de",
+      "website": "https://loreline.de/de/"
+    }
+  },
+  {
+    "id": 1123,
+    "name": "Zori",
+    "lang": "fr",
+    "links": {
+      "youtube": "https://youtube.com/channel/@Zori_le_Conteur_Nain"
+    }
+  },
+  {
+    "id": 1125,
+    "name": "[ART] Ametat",
+    "lang": "en",
+    "links": {
+      "website": "https://twitter.com/Ametat2"
+    }
+  },
+  {
+    "id": 1126,
+    "name": "Hardstuck",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC6tw9rxXtgJC1o5f7TtL9fA",
+      "website": "https://hardstuck.gg/"
+    }
+  },
+  {
+    "id": 1131,
+    "name": "Sheff",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UC1Oo3M86NV0ddYvQglxtKMQ",
+      "twitch": "https://twitch.tv/sheffplaysgames"
+    }
+  },
+  {
+    "id": 1132,
+    "name": "Kiyoshi",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCu8-zzzQ-mxbMtSLdEwHczQ",
+      "twitch": "https://twitch.tv/itskiyoshi_"
+    }
+  },
+  {
+    "id": 1133,
+    "name": "Raava",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCf8Y-tj6P1WYCNOhThEzxSw",
+      "twitch": "https://twitch.tv/raava"
+    }
+  },
+  {
+    "id": 1134,
+    "name": "Malchemist",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCkC-VPb_RRHwATmcZLJBfJA",
+      "twitch": "https://twitch.tv/MalchemistTV"
+    }
+  }
 ]
