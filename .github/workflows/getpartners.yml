@@ -30,7 +30,7 @@ jobs:
       - name: Extract and transform data
         run: |
           # Run the provided JavaScript snippet on the fetched HTML file
-          node getPartners.js > partners.json
+          node getPartnersJSDOM.js > partners.json
 
       - name: Commit changes
         run: |
