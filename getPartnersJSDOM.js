@@ -11,15 +11,11 @@ const document = dom.window.document;
 // Get all script tags
 var scripts = document.getElementsByTagName("script");
 
-// Debugging: Log the total number of scripts
-console.log(`Found ${scripts.length} script tags.`);
-
 // Look for an inline script containing "partners = [{"
 let partnersScript = null;
 for (let i = 0; i < scripts.length; i++) {
     if (scripts[i].innerHTML.includes("partners = [{")) {
         partnersScript = scripts[i].innerHTML;
-        console.log(`Found target script at index ${i}`);
         break;
     }
 }
@@ -40,10 +36,5 @@ if (partnersScript) {
 
         // Output the modified partners array as JSON
         fs.writeFileSync('partners.json', JSON.stringify(partners, null, 2));
-        console.log('Successfully extracted and processed partners data.');
-    } else {
-        console.error('Failed to find the end of the partners data.');
     }
-} else {
-    console.error('Target inline script containing "partners = [{" not found.');
 }
