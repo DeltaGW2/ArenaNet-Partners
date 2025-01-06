@@ -320,6 +320,14 @@
     }
   },
   {
+    "id": 667,
+    "name": "Angryzorric",
+    "lang": "en",
+    "links": {
+      "twitch": "https://twitch.tv/angryzorric"
+    }
+  },
+  {
     "id": 671,
     "name": "MMOShards",
     "lang": "fr",
@@ -736,6 +744,15 @@
     "links": {
       "youtube": "https://youtube.com/channel/UCkC-VPb_RRHwATmcZLJBfJA",
       "twitch": "https://twitch.tv/MalchemistTV"
+    }
+  },
+  {
+    "id": 1135,
+    "name": "EngelBurtMeow",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCTslSKeVRd6o3Aa5vgKZAjA",
+      "twitch": "https://twitch.tv/Engelburtmeow"
     }
   }
 ]
