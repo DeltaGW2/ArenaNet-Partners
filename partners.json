@@ -754,5 +754,14 @@
       "youtube": "https://youtube.com/channel/UCTslSKeVRd6o3Aa5vgKZAjA",
       "twitch": "https://twitch.tv/Engelburtmeow"
     }
+  },
+  {
+    "id": 1137,
+    "name": "Taja",
+    "lang": "en",
+    "links": {
+      "youtube": "https://youtube.com/channel/UCIx71TokVDcNqoDOAmC12Og",
+      "twitch": "https://twitch.tv/taja"
+    }
   }
 ]
