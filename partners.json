@@ -1,7 +1,7 @@
 [
   {
     "id": 4,
-    "name": "Hilbert",
+    "name": "Wooden Potatoes",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCYUY9_i44IDNOs_Ja815mlA",
@@ -10,7 +10,7 @@
   },
   {
     "id": 8,
-    "name": "Alex",
+    "name": "GuildNews",
     "lang": "de",
     "links": {
       "twitch": "https://twitch.tv/guildnews",
@@ -19,7 +19,7 @@
   },
   {
     "id": 12,
-    "name": "Lexi",
+    "name": "Kazhamania",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UC4co9wT8hjTcPCClFDdN7bg"
@@ -27,7 +27,7 @@
   },
   {
     "id": 14,
-    "name": "Floy",
+    "name": "YukieKoori",
     "lang": "es",
     "links": {
       "youtube": "https://youtube.com/channel/UC2FJRG2dQ7svRyE85oXpmHw"
@@ -35,7 +35,7 @@
   },
   {
     "id": 76,
-    "name": "Arlie",
+    "name": "Aurora Peachy",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCrzoluANZlhi24mlQVouTmg",
@@ -44,7 +44,7 @@
   },
   {
     "id": 79,
-    "name": "Jack",
+    "name": "MightyTeapot",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/MightyTeapot"
@@ -52,7 +52,7 @@
   },
   {
     "id": 94,
-    "name": "Nicklaus",
+    "name": "Jebro",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCYcZuPaZfonVRjeqFpRukqA",
@@ -61,7 +61,7 @@
   },
   {
     "id": 97,
-    "name": "Annabell",
+    "name": "Bootts",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCY7xwSpkcS3cOno6fo5J8ag",
@@ -70,7 +70,7 @@
   },
   {
     "id": 104,
-    "name": "Yasmin",
+    "name": "Waffle",
     "lang": "fr",
     "links": {
       "twitch": "https://twitch.tv/viking_et_waffle"
@@ -78,7 +78,7 @@
   },
   {
     "id": 125,
-    "name": "Dorris",
+    "name": "FariFariNos",
     "lang": "es",
     "links": {
       "youtube": "https://youtube.com/channel/UCwbd-346bA2F5snJkYJvbXw",
@@ -87,7 +87,7 @@
   },
   {
     "id": 155,
-    "name": "Geovanny",
+    "name": "Metall3x",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/Metall3x"
@@ -95,7 +95,7 @@
   },
   {
     "id": 162,
-    "name": "Mason",
+    "name": "Noscoc",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/noscoc"
@@ -103,7 +103,7 @@
   },
   {
     "id": 190,
-    "name": "Cyril",
+    "name": "Gladomer",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/gladomer"
@@ -111,7 +111,7 @@
   },
   {
     "id": 205,
-    "name": "Jeff",
+    "name": "GW2Community.de",
     "lang": "de",
     "links": {
       "website": "http://www.gw2community.de/"
@@ -119,7 +119,7 @@
   },
   {
     "id": 210,
-    "name": "Jaleel",
+    "name": "Le Bus Magique",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UCmXqN_mnZFXNBsFm5zCs7BA",
@@ -129,7 +129,7 @@
   },
   {
     "id": 212,
-    "name": "Broderick",
+    "name": "TheJuliaTrin",
     "lang": "de",
     "links": {
       "youtube": "https://youtube.com/channel/UCJRsX7AJEiKuocI88u6LfFw",
@@ -138,7 +138,7 @@
   },
   {
     "id": 233,
-    "name": "Eldridge",
+    "name": "GW2.fr",
     "lang": "fr",
     "links": {
       "website": "http://www.gw2.fr"
@@ -146,7 +146,7 @@
   },
   {
     "id": 234,
-    "name": "Nash",
+    "name": "GW2Shop",
     "lang": "fr",
     "links": {
       "website": "http://www.gw2shop.net/"
@@ -154,7 +154,7 @@
   },
   {
     "id": 250,
-    "name": "Darian",
+    "name": "Chronicles of Tyria",
     "lang": "en",
     "links": {
       "website": "http://www.chroniclesoftyria.com/"
@@ -162,7 +162,7 @@
   },
   {
     "id": 284,
-    "name": "Rosina",
+    "name": "Bourrinator",
     "lang": "fr",
     "links": {
       "twitch": "https://twitch.tv/bourrinator"
@@ -170,7 +170,7 @@
   },
   {
     "id": 291,
-    "name": "Troy",
+    "name": "MrAuronTV",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UCFHl4zgocJdBVq4VjtXekaQ",
@@ -179,7 +179,7 @@
   },
   {
     "id": 314,
-    "name": "Abelardo",
+    "name": "Samajestay",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCFj6RlDTF731AfH9rS_CHIA",
@@ -188,7 +188,7 @@
   },
   {
     "id": 355,
-    "name": "Newell",
+    "name": "RejjaOnAir",
     "lang": "de",
     "links": {
       "youtube": "https://youtube.com/channel/UC_6ZZr7B4XbF9M7DYw2lpbw",
@@ -197,7 +197,7 @@
   },
   {
     "id": 395,
-    "name": "Dovie",
+    "name": "NicoLeChti",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UC8gLMM6kmmBy6CEwRyxLQjQ"
@@ -205,7 +205,7 @@
   },
   {
     "id": 402,
-    "name": "Maryse",
+    "name": "Rising Sun",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UCmsmuON1J8oeqXeLXdMj4hw"
@@ -213,7 +213,7 @@
   },
   {
     "id": 502,
-    "name": "Mckenzie",
+    "name": "Baderas",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UCxtwAoh3sXq4tP6pM8LikAg"
@@ -221,7 +221,7 @@
   },
   {
     "id": 517,
-    "name": "Breanne",
+    "name": "ProperPlay",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/propersplace"
@@ -229,7 +229,7 @@
   },
   {
     "id": 520,
-    "name": "Grayce",
+    "name": "Fashionfuchs",
     "lang": "de",
     "links": {
       "twitch": "https://twitch.tv/fashionfuchs"
@@ -237,7 +237,7 @@
   },
   {
     "id": 521,
-    "name": "Arlene",
+    "name": "Durden",
     "lang": "de",
     "links": {
       "twitch": "https://twitch.tv/herrhaerter"
@@ -245,7 +245,7 @@
   },
   {
     "id": 530,
-    "name": "Lisette",
+    "name": "Jazzxman",
     "lang": "de",
     "links": {
       "youtube": "https://youtube.com/channel/UCFNJ1oqEc0Rku0bSdRbFdNg",
@@ -254,7 +254,7 @@
   },
   {
     "id": 539,
-    "name": "Eleanore",
+    "name": "Sindrener",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/sindrener"
@@ -262,7 +262,7 @@
   },
   {
     "id": 570,
-    "name": "Arthur",
+    "name": "AyinMaiden",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCU7b8z048_KTxWw6mbpZoZA",
@@ -271,7 +271,7 @@
   },
   {
     "id": 571,
-    "name": "Ramiro",
+    "name": "KROOF",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCjHqZPMTQZTou6r6LzcJgVw",
@@ -280,7 +280,7 @@
   },
   {
     "id": 591,
-    "name": "Camille",
+    "name": "Micka Gamer",
     "lang": "fr",
     "links": {
       "twitch": "https://twitch.tv/mickagamer_"
@@ -288,7 +288,7 @@
   },
   {
     "id": 602,
-    "name": "Nicholas",
+    "name": "The Krytan Herald",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UC9Sl1KHLtMcJEXZvTodr5LQ"
@@ -296,7 +296,7 @@
   },
   {
     "id": 613,
-    "name": "Leland",
+    "name": "GRM Adrian",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCuopamYB6RRpw3fVMANA8Hg",
@@ -305,7 +305,7 @@
   },
   {
     "id": 628,
-    "name": "Giuseppe",
+    "name": "[ART] Landylachs",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/landylachs"
@@ -313,7 +313,7 @@
   },
   {
     "id": 634,
-    "name": "Joanie",
+    "name": "[ART] Gears2Gnomes",
     "lang": "en",
     "links": {
       "website": "http://gears2gnomes.tumblr.com/"
@@ -321,7 +321,7 @@
   },
   {
     "id": 667,
-    "name": "Vicenta",
+    "name": "Angryzorric",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/angryzorric"
@@ -329,7 +329,7 @@
   },
   {
     "id": 671,
-    "name": "Sid",
+    "name": "MMOShards",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UCRbTjugiD9NVRKTou2cFNHA"
@@ -337,7 +337,7 @@
   },
   {
     "id": 687,
-    "name": "Zoey",
+    "name": "[ART] Changer The Elder",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/whitewolfburrow"
@@ -345,7 +345,7 @@
   },
   {
     "id": 697,
-    "name": "Damaris",
+    "name": "Brialeigh",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/brialeigh"
@@ -353,7 +353,7 @@
   },
   {
     "id": 718,
-    "name": "Jerod",
+    "name": "[ART] La",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/cmyklala"
@@ -361,7 +361,7 @@
   },
   {
     "id": 743,
-    "name": "Marcella",
+    "name": "[ART] Zorav",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/GW2Collective"
@@ -369,7 +369,7 @@
   },
   {
     "id": 770,
-    "name": "Juvenal",
+    "name": "[ART] Marius Bota",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/MariusBota"
@@ -377,7 +377,7 @@
   },
   {
     "id": 849,
-    "name": "Karelle",
+    "name": "[ART] Jimmy Saadoun",
     "lang": "en",
     "links": {
       "website": "https://www.artstation.com/jimmysaadoun"
@@ -385,7 +385,7 @@
   },
   {
     "id": 871,
-    "name": "Lula",
+    "name": "Roelski",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCzQm0KJyzRHEVzY-H31YJAQ"
@@ -393,7 +393,7 @@
   },
   {
     "id": 874,
-    "name": "Carlo",
+    "name": "Keyba",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/Keyba1001",
@@ -402,7 +402,7 @@
   },
   {
     "id": 880,
-    "name": "Isac",
+    "name": "Rediche",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCnG3FBea4nY_kBx36p5Dsbg",
@@ -411,7 +411,7 @@
   },
   {
     "id": 885,
-    "name": "Akeem",
+    "name": "Plenyx",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCfg8KIovmBGX6kxogs0oKIA",
@@ -420,7 +420,7 @@
   },
   {
     "id": 905,
-    "name": "Jamar",
+    "name": "Shayrianna",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/Shayrianna"
@@ -428,7 +428,7 @@
   },
   {
     "id": 908,
-    "name": "Marjolaine",
+    "name": "Tiffymisswiffy",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCJJz2-zbinXofmbLFXxA-AQ",
@@ -437,7 +437,7 @@
   },
   {
     "id": 909,
-    "name": "Lamar",
+    "name": "Rookuri",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/rookuri"
@@ -445,7 +445,7 @@
   },
   {
     "id": 914,
-    "name": "Kennith",
+    "name": "Mukluk",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/mukluk"
@@ -453,7 +453,7 @@
   },
   {
     "id": 921,
-    "name": "Kyla",
+    "name": "Kyosika",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCdg2omrlUUYx_tnyIgNiJSg"
@@ -461,7 +461,7 @@
   },
   {
     "id": 925,
-    "name": "Dasia",
+    "name": "[ART] Shunkaku",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/Shunkaku"
@@ -469,7 +469,7 @@
   },
   {
     "id": 931,
-    "name": "Cleve",
+    "name": "[ART] Fiaoradd",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/fiaoradd"
@@ -477,7 +477,7 @@
   },
   {
     "id": 950,
-    "name": "Travon",
+    "name": "Tatsuota",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/Tatsuota"
@@ -485,7 +485,7 @@
   },
   {
     "id": 954,
-    "name": "Jamir",
+    "name": "Guild Wars 2 Mists",
     "lang": "en",
     "links": {
       "website": "https://gw2mists.de/"
@@ -493,7 +493,7 @@
   },
   {
     "id": 955,
-    "name": "Clementina",
+    "name": "Snow Crows",
     "lang": "en",
     "links": {
       "website": "https://snowcrows.com/"
@@ -501,7 +501,7 @@
   },
   {
     "id": 961,
-    "name": "Muhammad",
+    "name": "TinyBlueGames",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCcdGOu7g4oVMrGwydib09fQ"
@@ -509,7 +509,7 @@
   },
   {
     "id": 964,
-    "name": "Albertha",
+    "name": "Emidotexe",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/emidotexe"
@@ -517,7 +517,7 @@
   },
   {
     "id": 988,
-    "name": "Oda",
+    "name": "GW2 Efficiency",
     "lang": "en",
     "links": {
       "website": "https://gw2efficiency.com/"
@@ -525,7 +525,7 @@
   },
   {
     "id": 989,
-    "name": "Ken",
+    "name": "Chickenooble",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCuj0Y1LvPW8nT1eYbCBV4Cg",
@@ -535,7 +535,7 @@
   },
   {
     "id": 990,
-    "name": "Robbie",
+    "name": "ArihMoon",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/JustArih"
@@ -543,7 +543,7 @@
   },
   {
     "id": 991,
-    "name": "Tiara",
+    "name": "[ART] Dies Vitae",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/diesvitae"
@@ -551,7 +551,7 @@
   },
   {
     "id": 1000,
-    "name": "Una",
+    "name": "SebGa",
     "lang": "de",
     "links": {
       "twitch": "https://twitch.tv/sebga"
@@ -559,7 +559,7 @@
   },
   {
     "id": 1015,
-    "name": "Efrain",
+    "name": "Uncle Skarzi",
     "lang": "fr",
     "links": {
       "twitch": "https://twitch.tv/uncleskarzi"
@@ -567,7 +567,7 @@
   },
   {
     "id": 1018,
-    "name": "Carter",
+    "name": "Historien Atis",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UC5r2e4w4t33hZegluRdPvEw",
@@ -576,7 +576,7 @@
   },
   {
     "id": 1053,
-    "name": "Dell",
+    "name": "[ART] Kata Kemi",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/Kata_kemi",
@@ -585,7 +585,7 @@
   },
   {
     "id": 1078,
-    "name": "Ova",
+    "name": "Nomi Gaming",
     "lang": "fr",
     "links": {
       "youtube": "https://youtube.com/channel/UCpWG8TI0unjLZhnCkaBNTNQ",
@@ -594,7 +594,7 @@
   },
   {
     "id": 1085,
-    "name": "Fern",
+    "name": "Xandrii",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCnr8dELi23JPrwUlb42KLXQ",
@@ -603,7 +603,7 @@
   },
   {
     "id": 1087,
-    "name": "Shawna",
+    "name": "Laranity",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/laranity"
@@ -611,7 +611,7 @@
   },
   {
     "id": 1096,
-    "name": "Virgil",
+    "name": "[ART] Kasimova",
     "lang": "en",
     "links": {
       "website": ""
@@ -619,7 +619,7 @@
   },
   {
     "id": 1103,
-    "name": "Bernhard",
+    "name": "[ART] Inoa",
     "lang": "en",
     "links": {
       "website": "https://www.artstation.com/inoa"
@@ -627,7 +627,7 @@
   },
   {
     "id": 1105,
-    "name": "Korey",
+    "name": "DeimosThea",
     "lang": "en",
     "links": {
       "twitch": "https://twitch.tv/deimosthea"
@@ -635,7 +635,7 @@
   },
   {
     "id": 1106,
-    "name": "Lina",
+    "name": "[ART] Ilona",
     "lang": "en",
     "links": {
       "website": "https://www.artstation.com/ilona-iske"
@@ -643,7 +643,7 @@
   },
   {
     "id": 1111,
-    "name": "Thomas",
+    "name": "JawseGaming",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCl3GAs9qkuDIOL4mZ2KoOjQ",
@@ -652,7 +652,7 @@
   },
   {
     "id": 1116,
-    "name": "Brennon",
+    "name": "Snebzor",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCnFjR4NH0zlB-jjesZ-EqPA",
@@ -661,7 +661,7 @@
   },
   {
     "id": 1118,
-    "name": "Lily",
+    "name": "[ART] Syti",
     "lang": "en",
     "links": {
       "website": "https://www.artstation.com/syti"
@@ -669,7 +669,7 @@
   },
   {
     "id": 1119,
-    "name": "Nicole",
+    "name": "[ART] Achromant \"Skal\"",
     "lang": "en",
     "links": {
       "website": "https://www.artstation.com/achromant"
@@ -677,7 +677,7 @@
   },
   {
     "id": 1122,
-    "name": "Hilma",
+    "name": "Loreline",
     "lang": "de",
     "links": {
       "youtube": "https://youtube.com/channel/loreline_by_aouglas",
@@ -687,7 +687,7 @@
   },
   {
     "id": 1125,
-    "name": "Glen",
+    "name": "[ART] Ametat",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/Ametat2"
@@ -695,7 +695,7 @@
   },
   {
     "id": 1126,
-    "name": "Wilhelm",
+    "name": "Hardstuck",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UC6tw9rxXtgJC1o5f7TtL9fA",
@@ -704,7 +704,7 @@
   },
   {
     "id": 1131,
-    "name": "Bria",
+    "name": "Sheff",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UC1Oo3M86NV0ddYvQglxtKMQ",
@@ -713,7 +713,7 @@
   },
   {
     "id": 1132,
-    "name": "Barrett",
+    "name": "Kiyoshi",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCu8-zzzQ-mxbMtSLdEwHczQ",
@@ -722,7 +722,7 @@
   },
   {
     "id": 1133,
-    "name": "Camila",
+    "name": "Raava",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCf8Y-tj6P1WYCNOhThEzxSw",
@@ -731,7 +731,7 @@
   },
   {
     "id": 1134,
-    "name": "Marlee",
+    "name": "Malchemist",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCkC-VPb_RRHwATmcZLJBfJA",
@@ -740,7 +740,7 @@
   },
   {
     "id": 1135,
-    "name": "Kyla",
+    "name": "EngelBurtMeow",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCTslSKeVRd6o3Aa5vgKZAjA",
@@ -749,7 +749,7 @@
   },
   {
     "id": 1137,
-    "name": "Coleman",
+    "name": "Taja",
     "lang": "en",
     "links": {
       "youtube": "https://youtube.com/channel/UCIx71TokVDcNqoDOAmC12Og",
