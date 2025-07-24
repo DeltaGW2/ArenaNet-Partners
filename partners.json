@@ -320,27 +320,11 @@
     }
   },
   {
-    "id": 671,
-    "name": "MMOShards",
-    "lang": "fr",
-    "links": {
-      "youtube": "https://youtube.com/channel/UCRbTjugiD9NVRKTou2cFNHA"
-    }
-  },
-  {
     "id": 687,
     "name": "[ART] Changer The Elder",
     "lang": "en",
     "links": {
       "website": "https://twitter.com/whitewolfburrow"
-    }
-  },
-  {
-    "id": 697,
-    "name": "Brialeigh",
-    "lang": "en",
-    "links": {
-      "twitch": "https://twitch.tv/brialeigh"
     }
   },
   {
@@ -489,14 +473,6 @@
     "lang": "en",
     "links": {
       "website": "https://snowcrows.com/"
-    }
-  },
-  {
-    "id": 961,
-    "name": "TinyBlueGames",
-    "lang": "en",
-    "links": {
-      "youtube": "https://youtube.com/channel/UCcdGOu7g4oVMrGwydib09fQ"
     }
   },
   {
