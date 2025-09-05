@@ -723,5 +723,123 @@
       "youtube": "https://youtube.com/channel/UCIx71TokVDcNqoDOAmC12Og",
       "twitch": "https://twitch.tv/taja"
     }
+  },
+  {
+    "id": 1146,
+    "name": "Cellofrag",
+    "lang": "",
+    "links": {
+      "twitch": "https://twitch.tv/cellofrag"
+    }
+  },
+  {
+    "id": 1152,
+    "name": "Homage",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/https://www.youtube.com/@homage3"
+    }
+  },
+  {
+    "id": 1153,
+    "name": "FireballAnnie",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/https://www.youtube.com/@fireballannie",
+      "twitch": "https://twitch.tv/fireballannie"
+    }
+  },
+  {
+    "id": 1160,
+    "name": "Phandrel",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/https://www.youtube.com/@phandrel",
+      "twitch": "https://twitch.tv/phandrel"
+    }
+  },
+  {
+    "id": 1161,
+    "name": "Pseudo",
+    "lang": "",
+    "links": {
+      "twitch": "https://twitch.tv/pseudoalias"
+    }
+  },
+  {
+    "id": 1168,
+    "name": "Syrma",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/https://www.youtube.com/@SyrmaGaming",
+      "twitch": "https://twitch.tv/syrmagaming"
+    }
+  },
+  {
+    "id": 1170,
+    "name": "Vortus",
+    "lang": "",
+    "links": {
+      "twitch": "https://twitch.tv/vortus43"
+    }
+  },
+  {
+    "id": 1174,
+    "name": "The Hero's Codex",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/theheroscodex",
+      "twitch": "https://twitch.tv/TheHerosCodex"
+    }
+  },
+  {
+    "id": 1177,
+    "name": "Matygon",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/matygonishere",
+      "twitch": "https://twitch.tv/matygon"
+    }
+  },
+  {
+    "id": 1184,
+    "name": "Manigold",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/Maanigold",
+      "twitch": "https://twitch.tv/maanigold"
+    }
+  },
+  {
+    "id": 1185,
+    "name": "Apejunk",
+    "lang": "",
+    "links": {
+      "twitch": "https://twitch.tv/apejunk"
+    }
+  },
+  {
+    "id": 1189,
+    "name": "Chomp",
+    "lang": "",
+    "links": {
+      "twitch": "https://twitch.tv/chomp"
+    }
+  },
+  {
+    "id": 1192,
+    "name": "Keyokku",
+    "lang": "",
+    "links": {
+      "twitch": "https://twitch.tv/Keyokku"
+    }
+  },
+  {
+    "id": 1194,
+    "name": "MrMystic",
+    "lang": "",
+    "links": {
+      "youtube": "https://youtube.com/channel/MrMystic1"
+    }
   }
 ]
